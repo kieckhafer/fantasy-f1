@@ -126,6 +126,10 @@ qualification is the one that counts.*
 
 = 50 points awarded for a team that finishes with a doublle podium. This will not be awarded every race.
 
+#### Carnage Bonus
+
+= 100 points awarded for a team who has both drivers involved in a single crash, resulting in both drivers receiving a DNF classification. Other drivers may be involved in the crash. Drivers must be disqualified in the same crash, it cannot be across multiple crashes.
+
 ---
 
 ## Team Roster Changes
