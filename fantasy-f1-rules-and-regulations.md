@@ -128,7 +128,7 @@ qualification is the one that counts.*
 
 #### Carnage Bonus
 
-= 100 points awarded for a team who has both drivers involved in a single crash, resulting in both drivers receiving a DNF classification. Other drivers may be involved in the crash. Drivers must be disqualified in the same crash, it cannot be across multiple crashes.
+= 100 points awarded to the owner of the F1 team who has both F1 team drivers involved in the same crash / incident, resulting in both drivers receiving a DNF classification. Other drivers may be involved in the crash / incident as well, it does not need to be limitied to the two teammates.
 
 ---
 
