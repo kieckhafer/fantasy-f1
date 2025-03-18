@@ -83,7 +83,7 @@ Scoring will apply to Grand Prix and Sprint races, with the following exceptions
 >
 > Carlos Sainz crashed on the 39th lap, therefore he only completed 38 laps, and his score would be `38`.
 >
->Alex Albon damaged his car beyond repain in qualifiying, and did not start the race. His score would be `0`.
+>Alex Albon damaged his car beyond repair in qualifiying, and did not start the race. His score would be `0`.
 
 #### Race points
 
