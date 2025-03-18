@@ -11,6 +11,7 @@ Rules for our custom-made fantasy Formula 1 league.
         1. [Movement Points](#movement-points)
         1. [Lap Points](#lap-points)
         1. [Championship Points](#championship-points)
+        1. [Pole Position Points](#pole-position-points) 
     1. [F1 Team Earned Points](#f1-team-earned-points)
         1. [Fastest Pit Stop](#fastest-pit-stop)
         1. [Highest Average Finishing Position](#highest-average-finishing-position)
