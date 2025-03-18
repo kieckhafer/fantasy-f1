@@ -136,7 +136,7 @@ For temporary replacement drivers, the owner of the abscensed driver is required
 >
 > Oliver Bearman replaced Carlos Sainz for the [2024 Saudi Arabian Grand Prix](https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix), when Sainz required appendix surgery and missed the race. Carlos Sainz owner would receive points based off of Oliver Bearmans race.
 
-For permanent replacement drivers, the owner of the replaced driver may choose any available driver, includeing the original drivers replacement, or any of the remaining free-agent drivers not currentlly rostered on a team.
+For permanent replacement drivers, the owner of the replaced driver may choose any available driver, includeing the original drivers replacement, or any of the remaining free-agent drivers not currentlly rostered on a team. If multiple drivers are permanently replaced during the same race week, the lower ranked owner based on the standings at the end of the previous race week will choose their replacement first, with the second lowest next, etc.
 
 > **Example**
 >
