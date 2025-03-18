@@ -49,7 +49,7 @@ Owners may choose to draft a driver or an F1 team with any of their picks during
 Scoring is determined on a per race basis. A race's score is the
 sum of the following calculations.
 
-Scoring will apply to Grand Prix and Sprint races, with the following exepctions:
+Scoring will apply to Grand Prix and Sprint races, with the following exceptions:
   1. Fastest pit stop will not apply to Sprint Races
 
 ### Driver Earned Points
