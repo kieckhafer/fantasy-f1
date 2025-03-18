@@ -7,7 +7,6 @@ Rules for our custom-made fantasy Formula 1 league.
 1. [Teams](#teams)
 1. [Driver Draft](#driver-draft)
 1. [Scoring](#scoring)
-  1. Score calculations
     1. [Driver Earned Points](#driver-earned-points)
         1. [Movement Points](#movement-points)
         1. [Lap Points](#lap-points)
@@ -52,7 +51,6 @@ sum of the following calculations.
 
 Scoring will apply to Grand Prix and Sprint races, with the following exepctions:
   1. Fastest pit stop will not apply to Sprint Races
-  1. 
 
 ### Driver Earned Points
 
