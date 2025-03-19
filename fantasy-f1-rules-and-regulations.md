@@ -30,16 +30,15 @@ owners' team. Each F1 team may only be on one owners' team.
 ## Draft
 
 Teams are set at the beginning of the season. The first round of the draft will be determined via a random drawing, with subsequent rounds based on the [Grantland NFL Wins Draft Order](https://grantland.com/the-triangle/you-should-have-an-nfl-wins-pool/):
-- Team 1 — 1st pick, 20th pick, 26th pick
-- Team 2 — 2, 16, 29
-- Team 3 — 3, 13, 30
-- Team 4 — 4, 18, 25
-- Team 5 — 5, 15, 27
-- Team 6 — 6, 19, 22
-- Team 7 — 7, 11, 28
-- Team 8 — 8, 17, 21
-- Team 9 — 9, 14, 23
-- Team 10 — 10, 12, 24
+- Team 1 — 1st pick, 18th pick, 23th pick
+- Team 2 — 2, 14, 26
+- Team 3 — 3, 11, 27
+- Team 4 — 4, 16, 22
+- Team 5 — 5, 13, 24
+- Team 6 — 6, 17, 20
+- Team 7 — 7, 10, 25
+- Team 8 — 8, 15, 19
+- Team 9 — 9, 12, 21
 
 Owners may choose to draft a driver or an F1 team with any of their picks during the draft, but each owner must acquire two drivers and one team in the draft.
 
