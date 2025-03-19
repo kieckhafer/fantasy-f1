@@ -104,6 +104,10 @@ qualification is the one that counts.*
 
 = 10 points earned for winning pole position in qualifying
 
+#### Carnage Bonus (Driver)
+
+= 100 points awarded to the owner of the F1 drivers who has both F1 drivers involved in the same crash / incident, resulting in both drivers receiving a DNF classification. Other drivers may be involved in the crash / incident as well, it does not need to be limitied to the two teammates. It is possible to combine this with the constructors version of the carnage bonus for a 200 point bonus.
+
 ### Team Earned Points
 
 #### Fastest Pit Stop
@@ -126,9 +130,9 @@ qualification is the one that counts.*
 
 = 50 points awarded for a team that finishes with a doublle podium. This will not be awarded every race.
 
-#### Carnage Bonus
+#### Carnage Bonus (Constructor)
 
-= 100 points awarded to the owner of the F1 team who has both F1 team drivers involved in the same crash / incident, resulting in both drivers receiving a DNF classification. Other drivers may be involved in the crash / incident as well, it does not need to be limitied to the two teammates.
+= 100 points awarded to the owner of the F1 constructor who has both F1 constructor drivers involved in the same crash / incident, resulting in both drivers receiving a DNF classification. Other drivers may be involved in the crash / incident as well, it does not need to be limitied to the two teammates. It is possible to combine this with the drivers version of the carnage bonus for a 200 point bonus.
 
 ---
 
