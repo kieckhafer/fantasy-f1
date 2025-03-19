@@ -4,7 +4,7 @@ Rules for our custom-made fantasy Formula 1 league.
 
 ## Table of contents
 
-1. [Teams](#teams)
+1. [Owners](#owners)
 1. [Driver Draft](#driver-draft)
 1. [Scoring](#scoring)
     1. [Driver Earned Points](#driver-earned-points)
@@ -20,10 +20,9 @@ Rules for our custom-made fantasy Formula 1 league.
 
 ---
 
-## Teams
+## Owners
 
-Each participant in the league, hereby referred to as the "Owner", will draft a team, which will be made up of two drivers, and one F1 team. Each driver may only be on one
-owners' team. Each F1 team may only be on one owners' team.
+Each participant in the league, hereby referred to as the "Owner", will draft a team, which will be made up of two drivers, and one F1 constructor. Each driver may only be on one owners' team. Each F1 constructor may only be on one owners' team.
 
 ---
 
@@ -40,7 +39,7 @@ Teams are set at the beginning of the season. The first round of the draft will 
 - Team 8 — 8, 15, 19
 - Team 9 — 9, 12, 21
 
-Owners may choose to draft a driver or an F1 team with any of their picks during the draft, but each owner must acquire two drivers and one team in the draft.
+Owners may choose to draft a driver or an F1 constructor with any of their picks during the draft, but each owner must acquire two drivers and one constructor in the draft.
 
 ---
 
@@ -106,15 +105,15 @@ qualification is the one that counts.*
 
 = 100 points awarded to the owner of the F1 drivers who has both F1 drivers involved in the same crash / incident, resulting in both drivers receiving a DNF classification. Other drivers may be involved in the crash / incident as well, it does not need to be limitied to the two teammates. It is possible to combine this with the constructors version of the carnage bonus for a 200 point bonus.
 
-### Team Earned Points
+### Constructor Earned Points
 
 #### Fastest Pit Stop
 
-= 10 points for the team with the fastest pit stop. This bonus will be earned every race. If two teams tie, both teams get full points.
+= 10 points for the constructor with the fastest pit stop. This bonus will be earned every race. If two constructors tie, both constructors get full points.
 
 #### Highest Average Finishing Position
 
-= 10 points for the team with the highest average fnishing position between the two drivers. This bonus will be earned every race. If two teams tie, both teams get full points.
+= 10 points for the constructors with the highest average fnishing position between the two drivers. This bonus will be earned every race. If two constructors tie, both constructors get full points.
 
 > **Example**
 >
@@ -122,11 +121,11 @@ qualification is the one that counts.*
 >
 >George Russell finishes in 7th position (P7), and and Kimi Antonelli finishes in 8th position (P8). The average finishing position is (7 + 8) / 2 = P7.5.
 >
->Even though an individual Ferrari driver finished in the highest position, by team average, Mercedes wouuld win this bonus.
+>Even though an individual Ferrari driver finished in the highest position, by constructor average, Mercedes would win this bonus.
 
 #### Double Podium
 
-= 50 points awarded for a team that finishes with a doublle podium. This will not be awarded every race.
+= 50 points awarded for a constructor that finishes with a doublle podium. This will not be awarded every race.
 
 #### Carnage Bonus (Constructor)
 
@@ -136,7 +135,7 @@ qualification is the one that counts.*
 
 ## Team Roster Changes
 
-There will be no changes allowed to team rosters if there are no official permanent changes to the F1 team roster during the season.
+There will be no changes allowed to team rosters if there are no official permanent changes to the F1 constructor roster during the season.
 
 For temporary replacement drivers, the owner of the abscensed driver is required to use the replacement driver on their team until their primary driver returns. 
 
@@ -144,7 +143,7 @@ For temporary replacement drivers, the owner of the abscensed driver is required
 >
 > Oliver Bearman replaced Carlos Sainz for the [2024 Saudi Arabian Grand Prix](https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix), when Sainz required appendix surgery and missed the race. Carlos Sainz owner would receive points based off of Oliver Bearmans race.
 
-For permanent replacement drivers, the owner of the replaced driver may choose any available driver, includeing the original drivers replacement, or any of the remaining free-agent drivers not currentlly rostered on a team. If multiple drivers are permanently replaced during the same race week, the lower ranked owner based on the standings at the end of the previous race week will choose their replacement first, with the second lowest next, etc.
+For permanent replacement drivers, the owner of the replaced driver may choose any available driver, includeing the original drivers replacement, or any of the remaining free-agent drivers not currentlly rostered on a constructor. If multiple drivers are permanently replaced during the same race week, the lower ranked owner based on the standings at the end of the previous race week will choose their replacement first, with the second lowest next, etc.
 
 > **Example**
 >
