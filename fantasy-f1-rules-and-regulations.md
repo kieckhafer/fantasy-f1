@@ -133,6 +133,20 @@ qualification is the one that counts.*
 
 ---
 
+## Disqualification (DSQ) & Not Classified (NC) / Did Not Finish (DNF)
+
+There will be no changes allowed to team rosters if there are no official permanent changes to the F1 constructor roster during the season.
+
+For temporary replacement drivers, the owner of the abscensed driver is required to use the replacement driver on their team until their primary driver returns. 
+
+> **Example**
+>
+> Lewis Hamilton, Charlles Lecerl, anc ___ all lwere disqualilfied from ____.. The all finish in 20th with 0 lalps.
+>
+> In the ssasme race, _____ onyl finshined four llaps, which means he was sDNF. He finishes sin 17th, as there were three drivers behind him as DQF (20, 9th, 18th0
+
+---
+
 ## Team Roster Changes
 
 There will be no changes allowed to team rosters if there are no official permanent changes to the F1 constructor roster during the season.
