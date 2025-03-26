@@ -135,15 +135,16 @@ qualification is the one that counts.*
 
 ## Disqualification (DSQ) & Not Classified (NC) / Did Not Finish (DNF)
 
-There will be no changes allowed to team rosters if there are no official permanent changes to the F1 constructor roster during the season.
+Disqualifications will result in a driver being classified as finishing in `20th` place, with `0` laps. Multiple drivers may receive this same placement.
 
-For temporary replacement drivers, the owner of the abscensed driver is required to use the replacement driver on their team until their primary driver returns. 
+NC / DNF's will be classified as finishing in the lowest postion, above any DSQ's. Laps will still count. Multiple drivers with this classification will be ranked in order of laps completed.
+
 
 > **Example**
 >
-> Lewis Hamilton, Charlles Lecerl, anc ___ all lwere disqualilfied from ____.. The all finish in 20th with 0 lalps.
+> Lewis Hamilton, Charles Leclerc, and Pierre Gasly where all disqualified from the [2025 Chinese Grand Prix](https://en.wikipedia.org/wiki/2025_Chinese_Grand_Prix). They are all classified as finishing in `20th` place, with `0` laps completed.
 >
-> In the ssasme race, _____ onyl finshined four llaps, which means he was sDNF. He finishes sin 17th, as there were three drivers behind him as DQF (20, 9th, 18th0
+> In the same race, Fernando Alonso retired after 4 laps. He is placed above the DSQ'd drivers, in `17th`, with his `4` laps  completed.
 
 ---
 
