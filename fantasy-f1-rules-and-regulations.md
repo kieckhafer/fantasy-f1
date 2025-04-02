@@ -11,18 +11,31 @@ Rules for our custom-made fantasy Formula 1 league.
         1. [Movement Points](#movement-points)
         1. [Lap Points](#lap-points)
         1. [Championship Points](#championship-points)
-        1. [Pole Position Points](#pole-position-points) 
-    1. [F1 Team Earned Points](#f1-team-earned-points)
+        1. [Pole Position Points](#pole-position-points)
+        1. [Carnage Bonus Points (Driver)](#carnage-bonus-driver)
+    1. [Constructor Earned Points](#constructor-earned-points)
         1. [Fastest Pit Stop](#fastest-pit-stop)
         1. [Highest Average Finishing Position](#highest-average-finishing-position)
         1. [Double Podium](#double-podium)
+        1. [First Initial Pit Stop](#first-initial-pit-stop)
+        1. [Last Initial Pit Stop](#last-initial-pit-stop)
+        1. [Pit Stops Under Three (3) Seconds](#pit-stops-under-three-(3)-seconds)
+        1. [Pit Stops In the First Seven (7) Laps](#pit-stops-in-the-first-seven-(7)-laps)
+        1. [Pit Stops In the Last Seven (7) Laps](#pit-stops-in-the-last-seven-(7)-laps)
+        1. [Carnage Bonus Points (Constructor)](#carnage-bonus-constructor)
+    1. [Constructor Lost Points](#constructor-lost-points)
+        1. [Pit Stops Over Four (4) Seconds ](#pit-stops-over-four-(4)-seconds)
+        1. [Not Putting a Tyre On Correcetly and Releasing the Car from the Pit Lane](#not-putting-a-tyre-on-correcetly-and-releasing-the-car-from-the-pit-lane)
+        1. [Breaking Parc Ferme](#breaking-parc-ferme)
+        1. [DNF Classification for Shit Car](#dnf-classification-for-shit-car)
+        1. [Unsafe Release from Pit](#unsafe-release-from-pit)
 1. [Team Roster Changes](#team-roster-changes)
 
 ---
 
 ## Owners
 
-Each participant in the league, hereby referred to as the "Owner", will draft a team, which will be made up of two drivers, and one F1 constructor. Each driver may only be on one owners' team. Each F1 constructor may only be on one owners' team.
+Each participant in the league, hereby referred to as the "Owner", will draft a team, which will be made up of two F1 drivers, and one F1 constructor. Each driver may only be on one owners' team. Each F1 constructor may only be on one owners' team.
 
 ---
 
@@ -39,30 +52,36 @@ Teams are set at the beginning of the season. The first round of the draft will 
 - Team 8 — 8, 15, 19
 - Team 9 — 9, 12, 21
 
-Owners may choose to draft a driver or an F1 constructor with any of their picks during the draft, but each owner must acquire two drivers and one constructor in the draft.
+Owners may choose to draft a driver or a constructor with any of their picks during the draft, but each owner must acquire two drivers and one constructor in the draft.
 
 ---
 
 ## Scoring
 
-Scoring is determined on a per race basis. A race's score is the
-sum of the following calculations.
+Scoring is determined on a per race basis. A race's score is the sum of the following calculations.
 
 Scoring will apply to Grand Prix and Sprint races, with the following exceptions:
-  1. Fastest pit stop will not apply to Sprint Races
+  1. The following pit stop rules will not apply to Sprint Races
+    - Fastest Pit Stop
+    - First initial pit stop
+    - Last initial pit stop
+    - Pit stops under three (3) seconds
+    - Pit stop over four (4) seconds
+    - Pit stops in the first seven (7) laps
+    - Pit stops in the last seven (7) laps
 
 ### Driver Earned Points
 
 #### Movement points
 
-= Starting grid position – finishing position
+= starting grid position – finishing position
 
 > **Examples**
 >
-> Hamilton starts from 2nd position (P2) and finishes in 8th (P8). His score
+> Hamilton starts from 2nd position (P2) and finishes in 8th position (P8). His score
 > for this category would be `2–8 = -6`.
 >
-> Norris starts from pole position (P1) and finishes in 1st (P1). His score
+> Norris starts from pole position (P1) and finishes in 1st position (P1). His score
 > for this category would be `1-1 = 0`.
 >
 > Verstappen _qualified_ in 4th position (P4) but suffered a penalty between qualifying and race
@@ -82,7 +101,7 @@ Scoring will apply to Grand Prix and Sprint races, with the following exceptions
 >
 > Carlos Sainz crashed on the 39th lap, therefore he only completed 38 laps, and his score would be `38`.
 >
->Alex Albon damaged his car beyond repair in qualifiying, and did not start the race. His score would be `0`.
+> Alex Albon damaged his car beyond repair in qualifiying, and did not start the race. His score would be `0`.
 
 #### Race points
 
@@ -99,7 +118,7 @@ qualification is the one that counts.*
 
 #### Pole position points
 
-= 10 points earned for winning pole position in qualifying
+= 10 points awarded for winning pole position in qualifying
 
 #### Carnage Bonus (Driver)
 
@@ -107,13 +126,9 @@ qualification is the one that counts.*
 
 ### Constructor Earned Points
 
-#### Fastest Pit Stop
-
-= 10 points for the constructor with the fastest pit stop. This bonus will be earned every race. If two constructors tie, both constructors get full points.
-
 #### Highest Average Finishing Position
 
-= 10 points for the constructors with the highest average fnishing position between the two drivers. This bonus will be earned every race. If two constructors tie, both constructors get full points.
+= 10 points awarded for the constructors with the highest average fnishing position between the two drivers. This bonus will be earned every race. If two constructors tie, both constructors get full points.
 
 > **Example**
 >
@@ -127,9 +142,55 @@ qualification is the one that counts.*
 
 = 50 points awarded for a constructor that finishes with a doublle podium. This will not be awarded every race.
 
+#### Fastest Pit Stop
+
+= 20 points awarded for the constructor with the fastest pit stop. This bonus will be earned every race. If two constructors tie, both constructors get full points.
+
+#### First Initial Pit Stop
+
+= 10 points awarded for the constructor with the first initial pit stop for either of their drivers. This will be awarded once per race.
+
+#### Last Initial Pit Stop
+
+= 10 points awarded for the constructor with the last initial pit stop for their second driver to pit. This will be awarded once per race.
+
+#### Pit Stops Under Three (3) Seconds
+
+= 10 points awarded for each pit stop under three seconds for either of the constructors' drivers. This can be awarded multiple times per race per team.
+
+#### Pit Stops In the First Seven (7) Laps
+
+= 10 points awarded for each pit stop in the first seven laps for either of the constructors' drivers. This can be awarded multiple times per race per team.
+
+#### Pit Stops In the Last Seven (7) Laps
+
+= 10 points awarded for each pit stop in the last seven laps for either of the constructors' drivers. This can be awarded multiple times per race per team.
+
 #### Carnage Bonus (Constructor)
 
 = 100 points awarded to the owner of the F1 constructor who has both F1 constructor drivers involved in the same crash / incident, resulting in both drivers receiving a DNF classification. Other drivers may be involved in the crash / incident as well, it does not need to be limitied to the two teammates. It is possible to combine this with the drivers version of the carnage bonus for a 200 point bonus.
+
+### Constructor Lost Points
+
+#### Pit Stops Over Four (4) Seconds 
+
+= 10 point deduction (-10) for each pit stop over four seconds for either of the constructors' drivers. This can be awarded multiple times per race per team.
+
+#### Not Putting a Tyre On Correctly and Releasing the Car from the Pit Lane
+
+= 50 point deduction (-50) if a driver is released from the pits without their tyre correctly secured.
+
+#### Breaking Parc Ferme
+
+= 25 point deduction (-25) if a constructor breaks Parc Ferme.
+
+### DNF Classification for Shit Car
+
+= 50 point deduction (-50) if a driver receives a DNF for a mechanical malfunction on the car. The malfunction must not be caused by any contact or incident.
+
+#### Unsafe Release from Pits
+
+= 20 point deduction (-20) if a driver receives a penelty for unsafe release from the pits.
 
 ---
 
