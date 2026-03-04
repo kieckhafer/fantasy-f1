@@ -24,8 +24,8 @@ Rules for our custom-made fantasy Formula 1 league.
         1. [Pit Stops In the Last Seven (7) Laps](#pit-stops-in-the-last-seven-(7)-laps)
         1. [Carnage Bonus Points (Constructor)](#carnage-bonus-constructor)
     1. [Constructor Lost Points](#constructor-lost-points)
-        1. [Pit Stops Over Four (4) Seconds ](#pit-stops-over-four-(4)-seconds)
-        1. [Not Putting a Tyre On Correcetly and Releasing the Car from the Pit Lane](#not-putting-a-tyre-on-correcetly-and-releasing-the-car-from-the-pit-lane)
+        1. [Pit Stops Over Four (4) Seconds](#pit-stops-over-four-(4)-seconds)
+        1. [Not Putting a Tyre On Correctly and Releasing the Car from the Pit Lane](#not-putting-a-tyre-on-correctly-and-releasing-the-car-from-the-pit-lane)
         1. [Breaking Parc Ferme](#breaking-parc-ferme)
         1. [DNF Classification for Shit Car](#dnf-classification-for-shit-car)
         1. [Unsafe Release from Pit](#unsafe-release-from-pit)
@@ -42,7 +42,7 @@ Each participant in the league, hereby referred to as the "Owner", will draft a 
 ## Draft
 
 Teams are set at the beginning of the season. The first round of the draft will be determined via a random drawing, with subsequent rounds based on the [Grantland NFL Wins Draft Order](https://grantland.com/the-triangle/you-should-have-an-nfl-wins-pool/):
-- Team 1 — 1st pick, 18th pick, 23th pick
+- Team 1 — 1st pick, 18th pick, 23rd pick
 - Team 2 — 2, 14, 26
 - Team 3 — 3, 11, 27
 - Team 4 — 4, 16, 22
@@ -101,15 +101,15 @@ Scoring will apply to Grand Prix and Sprint races, with the following exceptions
 >
 > Carlos Sainz crashed on the 39th lap, therefore he only completed 38 laps, and his score would be `38`.
 >
-> Alex Albon damaged his car beyond repair in qualifiying, and did not start the race. His score would be `0`.
+> Alex Albon damaged his car beyond repair in qualifying, and did not start the race. His score would be `0`.
 
 #### Race points
 
 = 2x the earned race points for the driver's finishing position
 
 *Note: through penalties, it is possible that a driver crosses the finish line
-in one position and is officially qualified in another. The official
-qualification is the one that counts.*
+in one position and is officially classified in another. The official
+classification is the one that counts.*
 
 > **Example**
 >
@@ -122,25 +122,25 @@ qualification is the one that counts.*
 
 #### Carnage Bonus (Driver)
 
-= 100 points awarded to the owner of the F1 drivers who has both F1 drivers involved in the same crash / incident, resulting in both drivers receiving a DNF classification. Other drivers may be involved in the crash / incident as well, it does not need to be limitied to the two teammates. It is possible to combine this with the constructors version of the carnage bonus for a 200 point bonus.
+= 100 points awarded to the owner of the F1 drivers who has both F1 drivers involved in the same crash / incident, resulting in both drivers receiving a DNF classification. Other drivers may be involved in the crash / incident as well, it does not need to be limited to the two teammates. It is possible to combine this with the constructors version of the carnage bonus for a 200 point bonus.
 
 ### Constructor Earned Points
 
 #### Highest Average Finishing Position
 
-= 10 points awarded for the constructors with the highest average fnishing position between the two drivers. This bonus will be earned every race. If two constructors tie, both constructors get full points.
+= 10 points awarded for the constructors with the highest average finishing position between the two drivers. This bonus will be earned every race. If two constructors tie, both constructors get full points.
 
 > **Example**
 >
 > Lewis Hamilton finishes in 5th position (P5), and Charles Leclerc finishes in 12th position (P12). The average finishing position is (5 + 12) / 2 = P8.5.
 >
->George Russell finishes in 7th position (P7), and and Kimi Antonelli finishes in 8th position (P8). The average finishing position is (7 + 8) / 2 = P7.5.
+> George Russell finishes in 7th position (P7), and Kimi Antonelli finishes in 8th position (P8). The average finishing position is (7 + 8) / 2 = P7.5.
 >
->Even though an individual Ferrari driver finished in the highest position, by constructor average, Mercedes would win this bonus.
+> Even though an individual Ferrari driver finished in the highest position, by constructor average, Mercedes would win this bonus.
 
 #### Double Podium
 
-= 50 points awarded for a constructor that finishes with a doublle podium. This will not be awarded every race.
+= 50 points awarded for a constructor that finishes with a double podium. This will not be awarded every race.
 
 #### Fastest Pit Stop
 
@@ -168,11 +168,11 @@ qualification is the one that counts.*
 
 #### Carnage Bonus (Constructor)
 
-= 100 points awarded to the owner of the F1 constructor who has both F1 constructor drivers involved in the same crash / incident, resulting in both drivers receiving a DNF classification. Other drivers may be involved in the crash / incident as well, it does not need to be limitied to the two teammates. It is possible to combine this with the drivers version of the carnage bonus for a 200 point bonus.
+= 100 points awarded to the owner of the F1 constructor who has both F1 constructor drivers involved in the same crash / incident, resulting in both drivers receiving a DNF classification. Other drivers may be involved in the crash / incident as well, it does not need to be limited to the two teammates. It is possible to combine this with the drivers version of the carnage bonus for a 200 point bonus.
 
 ### Constructor Lost Points
 
-#### Pit Stops Over Four (4) Seconds 
+#### Pit Stops Over Four (4) Seconds
 
 = 10 point deduction (-10) for each pit stop over four seconds for either of the constructors' drivers. This can be awarded multiple times per race per team.
 
@@ -190,7 +190,7 @@ qualification is the one that counts.*
 
 #### Unsafe Release from Pits
 
-= 20 point deduction (-20) if a driver receives a penelty for unsafe release from the pits.
+= 20 point deduction (-20) if a driver receives a penalty for unsafe release from the pits.
 
 ---
 
@@ -198,12 +198,12 @@ qualification is the one that counts.*
 
 Disqualifications will result in a driver being classified as finishing in `20th` place, with `0` laps. Multiple drivers may receive this same placement.
 
-NC / DNF's will be classified as finishing in the lowest postion, above any DSQ's. Laps will still count. Multiple drivers with this classification will be ranked in order of laps completed.
+NC / DNF's will be classified as finishing in the lowest position, above any DSQ's. Laps will still count. Multiple drivers with this classification will be ranked in order of laps completed.
 
 
 > **Example**
 >
-> Lewis Hamilton, Charles Leclerc, and Pierre Gasly where all disqualified from the [2025 Chinese Grand Prix](https://en.wikipedia.org/wiki/2025_Chinese_Grand_Prix). They are all classified as finishing in `20th` place, with `0` laps completed.
+> Lewis Hamilton, Charles Leclerc, and Pierre Gasly were all disqualified from the [2025 Chinese Grand Prix](https://en.wikipedia.org/wiki/2025_Chinese_Grand_Prix). They are all classified as finishing in `20th` place, with `0` laps completed.
 >
 > In the same race, Fernando Alonso retired after 4 laps. He is placed above the DSQ'd drivers, in `17th`, with his `4` laps  completed.
 
@@ -213,14 +213,14 @@ NC / DNF's will be classified as finishing in the lowest postion, above any DSQ'
 
 There will be no changes allowed to team rosters if there are no official permanent changes to the F1 constructor roster during the season.
 
-For temporary replacement drivers, the owner of the abscensed driver is required to use the replacement driver on their team until their primary driver returns. 
+For temporary replacement drivers, the owner of the absent driver is required to use the replacement driver on their team until their primary driver returns.
 
 > **Example**
 >
-> Oliver Bearman replaced Carlos Sainz for the [2024 Saudi Arabian Grand Prix](https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix), when Sainz required appendix surgery and missed the race. Carlos Sainz owner would receive points based off of Oliver Bearmans race.
+> Oliver Bearman replaced Carlos Sainz for the [2024 Saudi Arabian Grand Prix](https://en.wikipedia.org/wiki/2024_Saudi_Arabian_Grand_Prix), when Sainz required appendix surgery and missed the race. Carlos Sainz's owner would receive points based on Oliver Bearman's race.
 
-For permanent replacement drivers, the owner of the replaced driver may choose any available driver, includeing the original drivers replacement, or any of the remaining free-agent drivers not currentlly rostered on a constructor. If multiple drivers are permanently replaced during the same race week, the lower ranked owner based on the standings at the end of the previous race week will choose their replacement first, with the second lowest next, etc.
+For permanent replacement drivers, the owner of the replaced driver may choose any available driver, including the original driver's replacement, or any of the remaining free-agent drivers not currently rostered on a constructor. If multiple drivers are permanently replaced during the same race week, the lower ranked owner based on the standings at the end of the previous race week will choose their replacement first, with the second lowest next, etc.
 
 > **Example**
 >
-> Liam Lawson permanently replaced Daniel Ricciardo as a VCARB driver prior to the [2024 United States Grand Prix](https://en.wikipedia.org/wiki/2024_United_States_Grand_Prix). Ricciardo's owner would be allowed to chose between Lawson, or either of the remaining free-agent drivers, for the remainder of the season.
+> Liam Lawson permanently replaced Daniel Ricciardo as a VCARB driver prior to the [2024 United States Grand Prix](https://en.wikipedia.org/wiki/2024_United_States_Grand_Prix). Ricciardo's owner would be allowed to choose between Lawson, or either of the remaining free-agent drivers, for the remainder of the season.
