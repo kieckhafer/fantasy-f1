@@ -9,10 +9,14 @@ Rules for our custom-made fantasy Formula 1 league.
 1. [Scoring](#scoring)
     1. [Driver Earned Points](#driver-earned-points)
         1. [Movement Points](#movement-points)
-        1. [Lap Points](#lap-points)
-        1. [Championship Points](#championship-points)
+        1. [Lap Points](#driver-lap-points)
+        1. [Championship Points](#driver-championship-points)
         1. [Pole Position Points](#pole-position-points)
+        1. [Wet Race Winner Points](#wet-race-winner-points)
+        1. [Moving On Up Points](#moving-on-up-points)
         1. [Carnage Bonus Points (Driver)](#carnage-bonus-driver)
+    1. [Driver Lost Points](#driver-lost-points)
+        1. [Front Row Flop](#front-row-flop)
     1. [Constructor Earned Points](#constructor-earned-points)
         1. [Fastest Pit Stop](#fastest-pit-stop)
         1. [Highest Average Finishing Position](#highest-average-finishing-position)
@@ -22,6 +26,8 @@ Rules for our custom-made fantasy Formula 1 league.
         1. [Pit Stops Under Three (3) Seconds](#pit-stops-under-three-(3)-seconds)
         1. [Pit Stops In the First Seven (7) Laps](#pit-stops-in-the-first-seven-(7)-laps)
         1. [Pit Stops In the Last Seven (7) Laps](#pit-stops-in-the-last-seven-(7)-laps)
+        1. [Lap Points](#constructor-lap-points)
+        1. [Championship Points](#constructor-championship-points)
         1. [Carnage Bonus Points (Constructor)](#carnage-bonus-constructor)
     1. [Constructor Lost Points](#constructor-lost-points)
         1. [Pit Stops Over Four (4) Seconds](#pit-stops-over-four-(4)-seconds)
@@ -120,9 +126,23 @@ classification is the one that counts.*
 
 = 10 points awarded for winning pole position in qualifying
 
+#### Wet Race Winner points
+
+= 60 points awarded for winning a race where wet tyres were used
+
+####  Moving on Up points
+
+= 40 points awarded to a driver who starts the race in the bottom half of the grid (P12 or lower) and finishes in the top 5
+
 #### Carnage Bonus (Driver)
 
 = 100 points awarded to the owner of the F1 drivers who has both F1 drivers involved in the same crash / incident, resulting in both drivers receiving a DNF classification. Other drivers may be involved in the crash / incident as well, it does not need to be limited to the two teammates. It is possible to combine this with the constructors version of the carnage bonus for a 200 point bonus.
+
+### Driver Lost Points
+
+#### Front Row Flop
+
+= 50 point deduction (-50) for a driver who starts on the front row, and classifies as DNF before the halfway mark of the race.
 
 ### Constructor Earned Points
 
@@ -165,6 +185,35 @@ classification is the one that counts.*
 #### Pit Stops In the Last Seven (7) Laps
 
 = 10 points awarded for each pit stop in the last seven laps for either of the constructors' drivers. This can be awarded multiple times per race per team.
+
+#### Lap points
+
+= average number of laps completed by constructor's drivers at the end of the race (rounded up to the next full number)
+
+> **Example**
+>
+> In the [2024 São Paulo Grand
+> Prix](https://en.wikipedia.org/wiki/2024_S%C3%A3o_Paulo_Grand_Prix), the race
+> length was 69 laps.
+>
+>For Ferrari, Charles Leclerc completed all 69 laps, so his score would be `69`.
+>
+> Carlos Sainz crashed on the 39th lap, therefore he only completed 38 laps, so his score would be `38`.
+>
+> Averaging both Ferrari drivers together would be 69 + 38 / 2 = 53.5 points, rounded up to 54 points, so the score for Ferrari would be `54`.
+
+#### Race points
+
+= 1x the earned race points for the combined points earned by the driver's finishing position
+
+*Note: through penalties, it is possible that a driver crosses the finish line
+in one position and is officially classified in another. The official
+classification is the one that counts.*
+
+> **Example**
+>
+> Hamilton finished 3rd in the race earning him 15 championship points. His score
+> for this category would be `30`.
 
 #### Carnage Bonus (Constructor)
 
